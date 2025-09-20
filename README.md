@@ -1,21 +1,21 @@
 # **EKS-infrastructure-terraform**
 
-### initialize terraform
+### Initialize terraform
 
 `terraform init`
 
-### format all .tf files
+### Format all .tf files
 
 `terraform fmt`
 
-### validate all .tf files
+### Validate all .tf files
 
 `terraform validate`
 
-### plan upcoming changes
+### Plan upcoming changes
 
 `terraform plan`
 
-### apply chnages
+### Apply chnages
 
 `terraform apply -auto-approve`
